@@ -18,8 +18,8 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroyureriosmiguel&show_icons=true&theme=merko" alt="Pedro Yure Rios Miguel Status"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroyureriosmiguel&layout=compact&theme=merko" alt="Pedro Yure Rios Miguel Languages"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroyureriosmiguel&show_icons=true&theme=gotham" alt="Pedro Yure Rios Miguel Status"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroyureriosmiguel&layout=compact&theme=gotham" alt="Pedro Yure Rios Miguel Languages"/>
 </div>
 
 
