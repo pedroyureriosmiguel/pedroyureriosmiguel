@@ -23,6 +23,11 @@
 </div>
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedroyureriosmiguel&show_icons=true&count_private=true&hide_border=true&title_color=#014a22&icon_color=#014a22&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Yure Rios Miguel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroyureriosmiguel&layout=compact&hide_border=true&title_color=#014a22&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroyureriosmiguel&bg_color=0d1117&color=2ebd59&line=09dc53&point=56c809&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
